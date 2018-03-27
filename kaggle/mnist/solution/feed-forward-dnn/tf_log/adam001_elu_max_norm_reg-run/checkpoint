@@ -1,0 +1,2 @@
+model_checkpoint_path: "/tmp/10_mnist_dnn_model/tf_log/adam001_elu_max_norm_reg-run/10_mnist_dnn_model.ckpt"
+all_model_checkpoint_paths: "/tmp/10_mnist_dnn_model/tf_log/adam001_elu_max_norm_reg-run/10_mnist_dnn_model.ckpt"

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/eantaev/prj/ml-just/kaggle/mnist/solution/conv-net/tf_log/r02-batch100-fc128-stride1-run/10_mnist_dnn_model.ckpt"
+all_model_checkpoint_paths: "/home/eantaev/prj/ml-just/kaggle/mnist/solution/conv-net/tf_log/r02-batch100-fc128-stride1-run/10_mnist_dnn_model.ckpt"
